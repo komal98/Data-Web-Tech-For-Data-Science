@@ -1,5 +1,5 @@
 <h1>Data and Web Technologies for Data Science</h1>
-<p>Welcome to the repository for my assignments from the STA 220 course, "Data and Web Technologies for Data Science", taught by Professor Peter Kramliger.</p><br>
+<p>Welcome to the repository for my assignments from the STA 220 course, "Data and Web Technologies for Data Science", taught by Professor Peter Kramliger at UC Davis.</p><br>
 
 <b>About the Course</b><br>
 <p>STA 220 provides an introduction to fundamental concepts and techniques in data science, with a focus on data acquisition, manipulation, and analysis using web technologies. Throughout the course, we explored various tools and methodologies for working with data, including Python programming, web scraping, data visualization, and more.</p><br>
