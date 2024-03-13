@@ -1,4 +1,4 @@
-<h1>STA 220: Data and Web Technologies for Data Science - Assignments</h1>
+<h1>Data and Web Technologies for Data Science</h1>
 <p>Welcome to the repository for my assignments from the STA 220 course, "Data and Web Technologies for Data Science", taught by Professor Peter Kramliger.</p><br>
 
 <b>About the Course</b><br>
